@@ -12,7 +12,7 @@ pip2 install mechanize
 
 git clone https://github.com/bdblackforceteam/Dark-boy
 
-cd dark-boy
+cd Dark-boy
 
 python2 Dark-boy.py
 

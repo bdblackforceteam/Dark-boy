@@ -14,6 +14,6 @@ git clone https://github.com/bdblackforceteam/Dark-boy
 
 cd dark-boy
 
-python2 Dark_boy.py
+python2 Dark-boy.py
 
-This note (this tools was free, so you no need approval by It's Ifad)
+This note (This tools was free, so you no need approval by It's Ifad🥰🥰)
